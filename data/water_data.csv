@@ -1,0 +1,6 @@
+Village,Community_Type,Water_Source,Distance_km,Users,Quality
+Huluul_Town,Urban,Tap,0.5,300,Good
+Village_A,Village,Well,3,150,Medium
+Village_B,Village,Berkad,4,180,Poor
+Nomadic_Zone_1,Nomadic,Berkad,7,80,Poor
+Nomadic_Zone_2,Nomadic,Well,6,60,Medium
