@@ -1,6 +1,6 @@
-Village,Community_Type,Water_Source,Distance_km,Users,Quality
-Huluul_Town,Urban,Tap,0.5,300,Good
-Village_A,Village,Well,3,150,Medium
-Village_B,Village,Berkad,4,180,Poor
-Nomadic_Zone_1,Nomadic,Berkad,7,80,Poor
-Nomadic_Zone_2,Nomadic,Well,6,60,Medium
+Location_Name,Community_Type,Distance_to_Water_KM,Primary_Source,Proposed_Solution,Agro_Potential
+Huluul Urban,Urban,2,Berkad,Deep Well,High
+Village_01,Village,12,Seasonal,35m Shallow Well,Medium
+Village_02,Village,15,Trucking,35m Shallow Well,High
+Nomadic_Zone_A,Nomadic,35,None,Strategic Borehole,Livestock/Fodder
+Nomadic_Zone_B,Nomadic,40,None,Strategic Borehole,Livestock/Fodder
